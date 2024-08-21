@@ -84,7 +84,6 @@ The project files are organized as follows:
 
 ```
 /src
-  /components
     AddCategorySection.jsx      # Component to add/remove categories
     Category.jsx                # Component for displaying/managing widgets in a category
     SearchBar.jsx               # Component for searching widgets
